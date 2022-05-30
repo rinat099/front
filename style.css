@@ -1,0 +1,17 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.application{
+    width: 100vw;
+    height: 100vh;
+    background: red;
+}
+.margin-div {
+    border: 2px solid black;
+    margin: 50px;
+}
+.padding-div {
+    padding: 10px;
+}
