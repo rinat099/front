@@ -1,0 +1,22 @@
+/**{*/
+    /*margin:0*/
+/*}*/
+/*.flex-children:nth-child(2n) {*/
+    /*height: 30px;*/
+    /*background: grey;*/
+/*}*/
+/*.flex-children:nth-child(2n+1){*/
+    /*height: 30px;*/
+    /*background: grey*/
+/*}*/
+.flex-parent {
+    display: flex;
+    width: 400px;
+    border;1px solid black;
+
+}
+flex-children {
+    border: 1px;
+    padding: 10px;
+    margin:10px;
+}

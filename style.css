@@ -6,12 +6,35 @@
 .application{
     width: 100vw;
     height: 100vh;
-    background: red;
+    background:#901414;
 }
-.margin-div {
-    border: 2px solid black;
-    margin: 50px;
-}
-.padding-div {
-    padding: 10px;
+/*.div-1{*/
+    /*padding: 10px;*/
+    /*width: 50%;*/
+    /*font-size: 20px;*/
+    /*color: rgba(30,80,100,50);*/
+/*}*/
+/*.parent-div {*/
+    /*background: aqua;*/
+    /*width: 20px;*/
+    /*height: 20px;*/
+    /*overflow:hidden;*/
+    /*.ellipsis {*/
+
+    /*}*/
+/*}*/
+.fixed-div{
+.children-position-div
+.parent-position-div
+    margin: 40px;
+    padding: 40px;
+    background: palegreen;
+    widows: 300px;
+    <form action=""method="get">
+    <input
+     id="password"
+    <option
+
+
+
 }
