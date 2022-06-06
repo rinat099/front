@@ -1,0 +1,54 @@
+.application {
+    width: 100vw;
+    height: 100vh;
+
+    background: azure;
+}
+.card-wrapper {
+    display: grid;
+    grid-template-columns:25% 7% auto 15% ;
+    grid-template-rows:repeat(4,25%) ;
+    width: 450px;
+}
+.card-img-wrapper {
+    position: relative;
+    height: auto;
+    max-height: 130px;
+    min-height: 100px;
+    grid-row-start:1;
+    grid-row-end: 5;
+}
+.card-img-wrapper img {
+    position: absolute;
+    height: 100%;
+}
+.card-icon-phone {
+    grid-row-start: 2;
+}
+.card-icon-male {
+    grid-row-start: 3;
+}
+.card-icon-address{
+    grid-row-start: 4;
+}
+.font-size{
+    font-size: 16px;
+}
+.full-width {
+    width: 100%;
+}
+.flex{
+    display: flex;
+}
+.flex-algin-center {
+    align-items: center;
+}
+.flex-jusiti-center {
+    justify-content: center;
+}
+.overflow-hidden{
+    overflow: hidden;
+}
+.fio {
+
+}
